@@ -1,3 +1,0 @@
-/home/mrishika/Downloads/code2/CMakeFiles/Assignment02.dir
-/home/mrishika/Downloads/code2/CMakeFiles/edit_cache.dir
-/home/mrishika/Downloads/code2/CMakeFiles/rebuild_cache.dir
